@@ -7,6 +7,6 @@ jetson의 sllidar_ros2 패키지의 sllidar_node로 jetson에서 LiDARScan publi
 - jetson 코드는 나중에 첨부하도록 하겠습니다.
 
 ### sub 설명
-README: https://github.com/GitHub-hanyunji/Lane_Tracer/blob/main/README.md
+README: https://github.com/GitHub-hanyunji/LiDAR_Object_Driving/blob/main/wsl/README.md
 
 ### 결과영상 youtube
