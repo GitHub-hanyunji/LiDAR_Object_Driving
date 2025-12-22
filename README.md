@@ -10,3 +10,6 @@ jetson의 sllidar_ros2 패키지의 sllidar_node로 jetson에서 LiDARScan publi
 README: https://github.com/GitHub-hanyunji/LiDAR_Object_Driving/blob/main/wsl/README.md
 
 ### 결과영상 youtube
+- 카메라 영상과 lidar 영상 같이 있는 버전은 나중에 올리도록 하겠습니다.
+  
+https://www.youtube.com/watch?v=7mVYLzZFEGY
