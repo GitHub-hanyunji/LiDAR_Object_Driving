@@ -1,5 +1,5 @@
 
-# lidarsim.cpp / lidarsim.hpp / main.cpp
+# lidarsim
 
 ### 작성자: 2301510 한윤지
 
