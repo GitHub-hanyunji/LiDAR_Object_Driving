@@ -1,4 +1,4 @@
-# lidar_driving.cpp / lidar_driving.hpp / main.cpp
+# LiDAR Driving
 
 ### 작성자: 2301510 한윤지
 
