@@ -14,6 +14,7 @@ sllidar_ros2 패키지에서 sllidar_node 사용
 https://github.com/GitHub-hanyunji/LiDAR_Object_Driving/tree/main/rapi5/wsl/lidarsave
 
 ### \<결과영상\>
+https://github.com/user-attachments/assets/09a2a884-8dc3-4794-a441-9246fd0f249b
 
 
 ### 2. lidarsim
@@ -46,3 +47,4 @@ https://github.com/GitHub-hanyunji/LiDAR_Object_Driving/tree/main/rapi5/wsl/lida
 
 
 ### \<결과영상\>
+[![Demo Video](https://img.youtube.com/vi/d_WCQva6Nt0/0.jpg)](https://www.youtube.com/watch?v=d_WCQva6Nt0)
