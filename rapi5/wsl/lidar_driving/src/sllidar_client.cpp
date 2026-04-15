@@ -244,8 +244,8 @@ void LiDARDetectNode::Draw(Mat& frame, Mat stats, Mat centroids,Mat& label,int l
     }
 
     // 각도정규화
-    while (mid_angle < 0)   mid_angle += 360;
-    while (mid_angle >= 360) mid_angle -= 360;
+    // while (mid_angle < 0)   mid_angle += 360;
+    // while (mid_angle >= 360) mid_angle -= 360;
 
     // 중앙 화살표 끝점 계산
     Point mid_arrow_end(
