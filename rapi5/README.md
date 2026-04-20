@@ -43,7 +43,7 @@ https://github.com/GitHub-hanyunji/LiDAR_Object_Driving/tree/main/rapi5/rapi5 <b
 https://github.com/GitHub-hanyunji/LiDAR_Object_Driving/tree/main/rapi5/wsl/lidar_driving
 
 ### \<블록도\>
-<img width="571" height="932" alt="image" src="https://github.com/user-attachments/assets/6c15c5b4-6e42-441d-8b69-3292e8f70354" />
+<img width="504" height="937" alt="image" src="https://github.com/user-attachments/assets/2081d531-ebce-4bba-bf17-a2287868d20b" />
 
 
 
